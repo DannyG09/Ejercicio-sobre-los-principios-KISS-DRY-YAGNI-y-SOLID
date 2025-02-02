@@ -1,0 +1,14 @@
+C:\Users\danny\DRY\bin\Debug\net9.0\DRY.exe
+C:\Users\danny\DRY\bin\Debug\net9.0\DRY.deps.json
+C:\Users\danny\DRY\bin\Debug\net9.0\DRY.runtimeconfig.json
+C:\Users\danny\DRY\bin\Debug\net9.0\DRY.dll
+C:\Users\danny\DRY\bin\Debug\net9.0\DRY.pdb
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.AssemblyInfoInputs.cache
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.AssemblyInfo.cs
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.csproj.CoreCompileInputs.cache
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.dll
+C:\Users\danny\DRY\obj\Debug\net9.0\refint\DRY.dll
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.pdb
+C:\Users\danny\DRY\obj\Debug\net9.0\DRY.genruntimeconfig.cache
+C:\Users\danny\DRY\obj\Debug\net9.0\ref\DRY.dll
