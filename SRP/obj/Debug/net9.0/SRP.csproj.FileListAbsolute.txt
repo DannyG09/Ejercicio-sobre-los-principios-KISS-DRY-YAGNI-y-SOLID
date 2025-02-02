@@ -1,0 +1,14 @@
+C:\Users\danny\Yagni\SRP\bin\Debug\net9.0\SRP.exe
+C:\Users\danny\Yagni\SRP\bin\Debug\net9.0\SRP.deps.json
+C:\Users\danny\Yagni\SRP\bin\Debug\net9.0\SRP.runtimeconfig.json
+C:\Users\danny\Yagni\SRP\bin\Debug\net9.0\SRP.dll
+C:\Users\danny\Yagni\SRP\bin\Debug\net9.0\SRP.pdb
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.AssemblyInfoInputs.cache
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.AssemblyInfo.cs
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.dll
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\refint\SRP.dll
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.pdb
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\SRP.genruntimeconfig.cache
+C:\Users\danny\Yagni\SRP\obj\Debug\net9.0\ref\SRP.dll
