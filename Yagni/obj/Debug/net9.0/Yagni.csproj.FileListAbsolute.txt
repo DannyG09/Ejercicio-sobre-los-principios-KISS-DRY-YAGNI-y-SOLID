@@ -1,0 +1,14 @@
+C:\Users\danny\Yagni\bin\Debug\net9.0\Yagni.exe
+C:\Users\danny\Yagni\bin\Debug\net9.0\Yagni.dll
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.AssemblyInfoInputs.cache
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.AssemblyInfo.cs
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.csproj.CoreCompileInputs.cache
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.dll
+C:\Users\danny\Yagni\obj\Debug\net9.0\refint\Yagni.dll
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.pdb
+C:\Users\danny\Yagni\bin\Debug\net9.0\Yagni.deps.json
+C:\Users\danny\Yagni\bin\Debug\net9.0\Yagni.runtimeconfig.json
+C:\Users\danny\Yagni\bin\Debug\net9.0\Yagni.pdb
+C:\Users\danny\Yagni\obj\Debug\net9.0\Yagni.genruntimeconfig.cache
+C:\Users\danny\Yagni\obj\Debug\net9.0\ref\Yagni.dll
