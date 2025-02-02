@@ -1,0 +1,14 @@
+C:\Users\danny\KISS_Practica\bin\Debug\net9.0\KISS_Practica.exe
+C:\Users\danny\KISS_Practica\bin\Debug\net9.0\KISS_Practica.deps.json
+C:\Users\danny\KISS_Practica\bin\Debug\net9.0\KISS_Practica.runtimeconfig.json
+C:\Users\danny\KISS_Practica\bin\Debug\net9.0\KISS_Practica.dll
+C:\Users\danny\KISS_Practica\bin\Debug\net9.0\KISS_Practica.pdb
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.AssemblyInfoInputs.cache
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.AssemblyInfo.cs
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.csproj.CoreCompileInputs.cache
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.dll
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\refint\KISS_Practica.dll
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.pdb
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\KISS_Practica.genruntimeconfig.cache
+C:\Users\danny\KISS_Practica\obj\Debug\net9.0\ref\KISS_Practica.dll

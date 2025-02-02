@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "KISS_Practica/1.0.0": {
+        "runtime": {
+          "KISS_Practica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KISS_Practica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
